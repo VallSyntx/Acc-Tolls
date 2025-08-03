@@ -4,3 +4,4 @@ Cuankreatif
 Bims
 Bimss
 Infinix-InfinixX6532C-armeabi-v7a-UP1A.231005.007
+POCO-22111317PG-arm64-v8a-UKQ1.231003.002
