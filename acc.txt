@@ -13,3 +13,4 @@ vivo-VIVOY17-arm64-v8a-PPR1.180610.011
 Rizky
 vivo-V2310-arm64-v8a-AP3A.240905.015.A2
 Redmi-22081283G-arm64-v8a-UP1A.231005.007
+Infinix-InfinixX6532C-armeabi-v7a-UP1A.231005.007-valslv
