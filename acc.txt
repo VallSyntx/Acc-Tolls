@@ -5,3 +5,4 @@ Infinix-InfinixX6532C-armeabi-v7a-UP1A.231005.007-valllslv
 Rizky
 realme-RMX1971-arm64-v8a-RKQ1.201217.002
 asus-ZenfoneMaxProM1-arm64-v8a-SQ1A.220205.002
+asus-ASUS_I001DE-arm64-v8a-RKQ1.200710.002-valllslv
