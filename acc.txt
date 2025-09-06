@@ -1,9 +1,1 @@
-Infinix-InfinixX6532C-armeabi-v7a-UP1A.231005.007-valslv
-Infinix-InfinixX6853-arm64-v8a-AP3A.240905.015.A2-valslv
-Infinix-InfinixX6525-arm64-v8a-TP1A.220624.014-valllslv
-Infinix-InfinixX6532C-armeabi-v7a-UP1A.231005.007-valllslv
-Rizky
-realme-RMX1971-arm64-v8a-RKQ1.201217.002
-asus-ZenfoneMaxProM1-arm64-v8a-SQ1A.220205.002
-asus-ASUS_I001DE-arm64-v8a-RKQ1.200710.002-valllslv
-POCO-22111317PG-arm64-v8a-UKQ1.231003.002
+Redmi-23124RA7EO-arm64-v8a-AQ3A.240829.003-valllslv
