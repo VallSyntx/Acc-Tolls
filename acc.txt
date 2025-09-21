@@ -1,3 +1,4 @@
 Infinix-InfinixX6532C-armeabi-v7a-UP1A.231005.007-valllslv
+Infinix-InfinixX6525-arm64-v8a-TP1A.220624.014-valllslv
 realme-RMX3630-arm64-v8a-UKQ1.230924.001-valllslv
 fendi
