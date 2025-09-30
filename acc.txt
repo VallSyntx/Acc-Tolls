@@ -6,3 +6,4 @@ POCO-2201117PG-arm64-v8a-TP1A.220624.014-valllslv
 fendi
 vivo-VIVOY17-arm64-v8a-PPR1.180610.011-valllslv
 vivo-V2310-arm64-v8a-AP3A.240905.015.A2-valllslv
+Infinix-InfinixX6853-arm64-v8a-AP3A.240905.015.A2-valllslv
