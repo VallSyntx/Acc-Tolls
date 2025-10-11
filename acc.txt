@@ -9,3 +9,4 @@ vivo-V2310-arm64-v8a-AP3A.240905.015.A2-valllslv
 Infinix-InfinixX6853-arm64-v8a-AP3A.240905.015.A2-valllslv
 realme-RMX1911-arm64-v8a-QKQ1.200209.002-valllslv
 realme-RMX3939-arm64-v8a-AP3A.240905.015.A2-valllslv
+Redmi-2312DRA50G-arm64-v8a-TKQ1.221114.001-valllslv
