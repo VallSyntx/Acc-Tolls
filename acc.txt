@@ -1,1 +1,2 @@
 DEVICE-Infinix-UP1A.231005.007-armeabi-v7a
+COOKIES-Infinix-UP1A.231005.007-armeabi-v7a
